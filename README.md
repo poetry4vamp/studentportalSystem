@@ -1,4 +1,4 @@
-# prismacrud-cbs-final-project
+# studentportalSystem
 
 1. type npm install -g express-generator@4 ejs prisma@latest -g nodemon caesar-encrypt
 2. type express
