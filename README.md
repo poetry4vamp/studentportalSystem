@@ -1,4 +1,5 @@
-# studentportalSystem
+# Student Portal System using Prisma CRUD
+This is the final project for CBS course.
 
 1. type npm install -g express-generator@4 ejs prisma@latest -g nodemon caesar-encrypt
 2. type express
